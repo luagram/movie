@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/output.m3u",
+    "title": "الحب والحرب",
+    "description": "تدور أحداث عن يهةي",
+    "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/1.jpeg",
+    "subtitles": {
+      "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/ar.vtt",
+      "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/en.vtt"
+    }
+  }
+]
