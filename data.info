@@ -9,5 +9,17 @@
       "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/ar.vtt",
       "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/en.vtt"
     }
+  },
+  {
+    "id": 2,
+    "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/output.m3u",
+    "title": "الحب والحرب",
+    "description": "تدور أحداث عن يهةي",
+    "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/2.jpe",
+    "subtitles": {
+      "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/ar.vtt",
+      "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/en.vtt"
+    }
   }
+
 ]
