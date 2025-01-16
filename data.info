@@ -63,6 +63,32 @@
       "subtitles": {
         "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/5/ar.vtt"
       }
+    },
+    "6": {
+      "id": 6,
+      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/6/output.m3u8",
+      "title": "The Conjuring",
+      "imdb": "tt1457767",
+      "year": "2013",
+      "description": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by a malicious spirit.",
+      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/6/6.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/6/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/6/en.vtt"
+
+      }
+    },
+    "7": {
+      "id": 7,
+      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/7/output.m3u8",
+      "title": "Annabelle",
+      "imdb": "tt3322940",
+      "year": "2014",
+      "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/7/7.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/7/ar.vtt"
+      }
     }
   }
 }
