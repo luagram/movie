@@ -89,6 +89,20 @@
       "subtitles": {
         "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/7/ar.vtt"
       }
+    },
+    "8": {
+      "id": 8,
+      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/8/output.m3u8",
+      "title": "Dirty Angels",
+      "imdb": "tt23872640",
+      "year": "2024",
+      "description": "تدور أحداث العمل حول مجموعة من الجنديات اللاتي يتنكرن في هيئة مسعفين في سبيل إنقاذ مراهقين من قبضة داعش وقوات طالبان، ويخوضون العديد من الصعاب في سبيل تنفيذ مهمتهن.",
+      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/8/8.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/8/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/8/en.vtt"
+
+      }
     }
   }
 }
