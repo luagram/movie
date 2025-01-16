@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/output.m3u",
+    "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/output.m3u8",
     "title": "Ad Vitam",
     "description": "حين يتعرض هو وزوجته الحامل للهجوم في منزلهما، يجد وكيل النخبة السابق نفسه مقحمًا في مطاردة مرتبطة بماضيه الأليم تصل خطورتها إلى الموت",
     "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/1.jpeg",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/output.m3u",
+    "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/output.m3u8",
     "title": "Gabriel Iglesias: Legend of Fluffy",
     "description": "من الخروج عن الصورة النمطية إلى عمليات اقتحام للمنازل، يقدّم غابرييل إغلاسياس تقلبات الحياة ومنعطفاتها غير المتوقعة بروح فكاهية في هذا العرض الارتجالي الخاص",
     "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/2.jpg",
@@ -20,6 +20,16 @@
       "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/ar.vtt",
       "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/en.vtt"
     }
+  },
+  {
+    "id": 3,
+    "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/3/output.m3u8",
+    "title": "Suspicion",
+    "description": "يسعى فوك، الموهوب بقوى خارقة، إلى الانتقام لقتل صديقه. وبينما يتعمق في السحر الأسود، يواجه الخيانة والتحديات الأخلاقية. وفي النهاية، يجب أن يقرر إلى أي مدى سيذهب من أجل العدالة.",
+    "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/3/3.jpg",
+    "subtitles": {
+      "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/3/ar.vtt",
+      "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/3/en.vtt"
+    }
   }
-
 ]
