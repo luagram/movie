@@ -2,8 +2,8 @@
   {
     "id": 1,
     "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/output.m3u",
-    "title": "الحب والحرب",
-    "description": "تدور أحداث عن يهةي",
+    "title": "Ad Vitam",
+    "description": "حين يتعرض هو وزوجته الحامل للهجوم في منزلهما، يجد وكيل النخبة السابق نفسه مقحمًا في مطاردة مرتبطة بماضيه الأليم تصل خطورتها إلى الموت",
     "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/1.jpeg",
     "subtitles": {
       "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/1/ar.vtt",
@@ -13,8 +13,8 @@
   {
     "id": 2,
     "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/output.m3u",
-    "title": "الحب والحرب",
-    "description": "تدور أحداث عن يهةي",
+    "title": "Gabriel Iglesias: Legend of Fluffy",
+    "description": "من الخروج عن الصورة النمطية إلى عمليات اقتحام للمنازل، يقدّم غابرييل إغلاسياس تقلبات الحياة ومنعطفاتها غير المتوقعة بروح فكاهية في هذا العرض الارتجالي الخاص",
     "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/2.jpg",
     "subtitles": {
       "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/2/ar.vtt",
