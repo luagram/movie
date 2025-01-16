@@ -38,6 +38,31 @@
         "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/3/ar.vtt",
         "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/3/en.vtt"
       }
+    },
+    "4": {
+      "id": 4,
+      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/4/output.m3u8",
+      "title": "Gladiator II",
+      "imdb": "tt9218128",
+      "year": "2024",
+      "description": "تدور أحداث العمل حول (لوشيوس)، ابن حبيبة (ماكسيموس) والتي تُعرف باسم (لوسيا)، ذلك في أعقاب وفاة (ماكسيموس) وانقلاب موازين القوة.",
+      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/4/4.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/4/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/4/en.vtt"
+      }
+    },
+    "5": {
+      "id": 5,
+      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/5/output.m3u8",
+      "title": "Gladiator",
+      "imdb": "tt0172495",
+      "year": "2000",
+      "description": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/5/5.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/5/ar.vtt"
+      }
     }
   }
 }
