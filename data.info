@@ -145,6 +145,32 @@
         "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/11/en.vtt"
 
       }
+    },
+    "12": {
+      "id": 12,
+      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/12/output.m3u8",
+      "title": "Twilight",
+      "imdb": "tt1099212",
+      "year": "2008",
+      "description": "A teenage girl risks everything when she falls in love with a vampire.",
+      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/12/12.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/12/ar.vtt"
+      }
+    },
+    "13": {
+      "id": 13,
+      "url": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/13/output.m3u8",
+      "title": "The Twilight Saga: New Moon",
+      "imdb": "tt1259571",
+      "year": "2009",
+      "description": "Edward leaves Bella after an attack that nearly claimed her life, and in her depression she falls into yet another paranormal relationship - this time with werewolf Jacob Black.",
+      "img": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/13/13.jpg",
+      "subtitles": {
+        "arabic": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/13/ar.vtt",
+        "english": "https://raw.githubusercontent.com/luagram/movie/refs/heads/main/13/en.vtt"
+
+      }
     }
   }
 }
